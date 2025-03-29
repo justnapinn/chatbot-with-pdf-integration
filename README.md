@@ -12,7 +12,7 @@ This project demonstrates how to build a chatbot using **Streamlit**, **LangChai
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/chatbot.git
+git clone https://github.com/justnapinn/chatbot.git
 cd chatbot
 ```
 ### 2. Create a virtual environment and install dependencies:
