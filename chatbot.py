@@ -1,5 +1,4 @@
 from http.client import responses
-
 import streamlit as st
 from PyPDF2 import PdfReader
 from langchain.chains.question_answering import load_qa_chain
@@ -10,7 +9,7 @@ from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
-OPENAI_API_KEY = "your-api-key"
+OPENAI_API_KEY = "insert-your-api-key-here"
 #Upload PDF files
 st.header("My First Chatbot")
 
